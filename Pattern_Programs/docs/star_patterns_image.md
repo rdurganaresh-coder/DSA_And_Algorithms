@@ -1,7 +1,7 @@
 # ⭐ Star Patterns
 
 
-[⬅ Back to Diagram Index](../docs/star_patterns.md)
+[⬅ Back to Pattern Page](../docs/star_patterns.md)
 
 ---
 
@@ -9,4 +9,4 @@
 
 ---
 
-[⬅ Back to Diagram Index](../docs/star_patterns.md)
+[⬅ Back to Pattern Page](../docs/star_patterns.md)
