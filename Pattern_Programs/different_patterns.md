@@ -7,4 +7,4 @@
 
 | Diagram | Covers |
 |---------|--------|
-| !`[Star Pattern](images/star_patterns.png)`| Star pattern gallery + core loop logic |
+| ![Star Pattern](images/star_patterns.png)| Star pattern gallery + core loop logic |
