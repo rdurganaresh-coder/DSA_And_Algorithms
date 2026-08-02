@@ -3,8 +3,14 @@
 
 ---
 
-## Diagram Index
+# ⭐ Star Patterns
 
-| Diagram | Covers |
-|---------|--------|
-| ![Star Pattern](images/star_patterns.png)| Star pattern gallery + core loop logic |
+[⬅ Back to Diagram Index](../Pattern_Programs/different_patterns.md)
+
+---
+
+![Star Patterns](./images/star_patterns.png)
+
+---
+
+[⬅ Back to Diagram Index](../README.md)
