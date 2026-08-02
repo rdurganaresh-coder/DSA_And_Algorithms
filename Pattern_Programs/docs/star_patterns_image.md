@@ -1,7 +1,7 @@
 # ⭐ Star Patterns
 
 
-[⏪ Back to Pattern Page](../docs/star_patterns.md)
+[⏪ Back to Pattern Page](../docs/Star_Patterns.md)
 
 ---
 
