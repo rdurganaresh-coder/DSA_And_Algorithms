@@ -3,14 +3,8 @@
 
 ---
 
-# ⭐ Star Patterns
+# Diagram Index
 
-[⬅ Back to Diagram Index](../Pattern_Programs/different_patterns.md)
-
----
-
-![Star Patterns](./images/star_patterns.png)
-
----
-
-[⬅ Back to Diagram Index](../README.md)
+| Diagram | Covers |
+|---------|--------|
+| [01. Star Patterns](images/star_patterns.png) | Star pattern gallery |
