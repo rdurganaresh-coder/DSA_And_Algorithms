@@ -1,11 +1,6 @@
 # ⭐ Star Patterns
 
-[⬅ Back to Diagram Index](../docs/star_patterns.md)
+## Star Pattern Programs
 
----
-
-![Star Patterns](../images/star_patterns.png)
-
----
-
-[⬅ Back to Diagram Index](../docs/star_patterns.md)
+### [⬅ Back to Diagram Index](../docs/star_patterns.md)
+### [⬅ Diagram For Pattern](../images/star_patterns.png)
