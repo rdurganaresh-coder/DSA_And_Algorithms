@@ -3,4 +3,4 @@
 Welcome to the DSA Page. Please see the sub-sections below:
 
 ## Table of Contents
-* [Arrays Coding Problems](Arrays/ARRAYS.md)
+* [Pattern Programs](Pattern_Programs/different_patterns.md)
