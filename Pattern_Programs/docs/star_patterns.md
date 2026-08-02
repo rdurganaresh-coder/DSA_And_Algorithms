@@ -2,4 +2,4 @@
 
 ## Star Pattern Programs
 
-### [⬅ Diagram For Pattern](../images/star_patterns.png)
+### [⬅ Diagram For Pattern](../docs/star_patterns_image.md)
